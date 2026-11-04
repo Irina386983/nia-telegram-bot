@@ -55,6 +55,15 @@ Nia grows out of my idea "IronClaw Playground: Sandbox Agent Simulation", which 
 - More situations, then harder branching levels for experienced AI users.
 - Try other agents as the opponent in the duel, including IronClaw, which is now part of Near.com. For this hackathon the duel uses a model on NEAR AI Cloud because it is stable and reproducible.
 
+  ## Business model (planned)
+
+Nia is free to play, and nothing is paid yet. This is the plan:
+
+- **Free:** the core game, the Queen's verdicts, ranks and the leaderboard.
+- **Premium levels:** harder, branching situations and themed packs (money, DeFi agents, work tools) for experienced AI users. Payment in Telegram Stars, payment in NEAR later.
+- **Teams:** a training mode for companies that want their people to practise supervising AI agents, with group results.
+- **Why it can work:** agents are starting to handle money, and supervising them is a skill people and companies will pay to practise.
+
 ## Notes
 
 Nia is an independent community project, not an official NEAR or IronClaw product. Music in the demo video: "Music by Roman Orekhov from Pixabay".
