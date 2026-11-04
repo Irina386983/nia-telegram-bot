@@ -8,12 +8,18 @@ Bot: https://t.me/IronClawPlaygroundBot
 
 ## Try it (do X, see Y)
 
-1. Open the bot and tap START. You see a greeting from Nia, Queen of the Emerald Kingdom, and three buttons.
+1. Open the bot and tap START. You see a greeting from Nia, Queen of the Emerald Kingdom, and four buttons.
 2. Tap Quick Demo for a 30-second preview, or tap Start Simulation. You see a short situation with three moves: Agree with the agent's plan, Ask the agent to clarify, or Allow a risky shortcut.
 3. Tap one move. You see the outcome, a page from the Queen's Notebook with the rule behind it, and her verdict.
 4. Tap "What would the AI agent do?". You see a duel: your move against the move of a real AI agent running on NEAR AI Cloud. The Queen comments on who chose better.
 5. Tap 📊 Compare Results to see your points, rank and choices, then 🏆 Leaderboard to see the Emerald Leaderboard.
 6. Tap Next situation to play another one. There are 12 situations in total.
+## Screenshots
+
+| Welcome | A situation | Duel with the AI agent | Premium (coming soon) |
+|---|---|---|---|
+| <img src="1.jpeg" width="190" alt="Welcome screen"> | <img src="2.jpeg" width="190" alt="A situation with three choices"> | <img src="3.jpeg" width="190" alt="Duel: you vs the AI agent on NEAR AI Cloud"> | <img src="4.jpeg" width="190" alt="Premium and Teams menu"> |
+
 
 ## Why Nia?
 
