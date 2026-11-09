@@ -86,6 +86,7 @@ Nia is free to play, and nothing is paid yet. This is the plan:
 - **Premium levels:** harder, branching situations and themed packs (money, DeFi agents, work tools) for experienced AI users. Payment in Telegram Stars, payment in NEAR later.
 - **Teams:** a training mode for companies that want their people to practise supervising AI agents, with group results.
 - **Why it can work:** agents are starting to handle money, and supervising them is a skill people and companies will pay to practise.
+- **Use of NEAR:** every duel is a paid NEAR AI Cloud request; premium levels and a team training mode would multiply it.
 
 ## Notes
 
