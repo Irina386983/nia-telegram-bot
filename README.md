@@ -2,7 +2,7 @@
 
 **Nia is a gym for your "yes" button.** It teaches you not to say yes blindly to a confident AI agent before it spends your money.
 
-A fairy-tale Telegram game for beginners of any age. AI agents are starting to act for us, so a human has to stay in control. In Nia you practise exactly that: the agent suggests, YOU decide.
+A fairy-tale Telegram game for beginners of any age. AI agents are getting access to our files, money and tools. An agent can sound sure of itself and still be tricked, rushed or simply wrong, so the last word has to stay with a human. In Nia you practise exactly that: the agent suggests, YOU decide.
 
 Built at NEAR HACKATHON (1-14 Nov 2026). Solo project.
 
@@ -16,16 +16,16 @@ Bot: https://t.me/IronClawPlaygroundBot
 4. Tap "What would the AI agent do?". You see a duel: your move against the move of a real AI agent running on NEAR AI Cloud. The Queen comments on who chose better.
 5. Tap 📊 Compare Results to see your points, rank and choices, then 🏆 Leaderboard to see the Emerald Leaderboard.
 6. Tap Next situation to play another one. There are 12 situations in total.
+ 
 ## Screenshots
 
 | Welcome | A situation | Duel with the AI agent | Premium (coming soon) |
 |---|---|---|---|
 | <img src="1.jpeg" width="190" alt="Welcome screen"> | <img src="2.jpeg" width="190" alt="A situation with three choices"> | <img src="3.jpeg" width="190" alt="Duel: you vs the AI agent on NEAR AI Cloud"> | <img src="4.jpeg" width="190" alt="Premium and Teams menu"> |
 
-
 ## Why Nia?
 
-AI agents act on their own. They can be tricked, rushed or simply wrong, so a human has to know when to say "stop, verify first". Nia practises the skill this agent economy needs: a human who stays in control of an agent that handles money.
+Most of us will soon hand real tasks to AI agents. Nia practises the skill this needs: a human who knows when to say "stop, verify first" and stays in control of an agent that handles money.
 
 The AI agent in the duel is a real model. It gets no hints and it can be wrong. That is the point of the game: the agent suggests, the human decides, and the agent's mistakes are the vulnerabilities you learn to catch.
 
@@ -78,7 +78,7 @@ Nia grows out of my idea "IronClaw Playground: Sandbox Agent Simulation", which 
 - More situations, then harder branching levels for experienced AI users.
 - Try other agents as the opponent in the duel, including IronClaw, which is now part of Near.com. For this hackathon the duel uses a model on NEAR AI Cloud because it is stable and reproducible.
 
-  ## Business model (planned)
+## Business model (planned)
 
 Nia is free to play, and nothing is paid yet. This is the plan:
 
