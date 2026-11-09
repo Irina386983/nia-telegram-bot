@@ -1,6 +1,8 @@
 # Nia: keep the AI agent under control
 
-A fairy-tale Telegram game for beginners of any age. AI agents are starting to spend money and act for us, so a human has to stay in control. In Nia you practise exactly that: the agent suggests, YOU decide.
+**Nia is a gym for your "yes" button.** It teaches you not to say yes blindly to a confident AI agent before it spends your money.
+
+A fairy-tale Telegram game for beginners of any age. AI agents are starting to act for us, so a human has to stay in control. In Nia you practise exactly that: the agent suggests, YOU decide.
 
 Built at NEAR HACKATHON (1-14 Nov 2026). Solo project.
 
