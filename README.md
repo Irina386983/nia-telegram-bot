@@ -44,15 +44,30 @@ No other NEAR technology is used in this version.
 
 ## Before / during the hackathon
 
-Before 1 Nov 2026 (the baseline, see `BASELINE.md`, tag `pre-hackathon`): the idea and an early Telegram prototype with 8 situations, three moves, the Queen's verdicts, points and ranks.
+### Before 1 Nov 2026
 
-Built during the hackathon (from 1 Nov 2026):
+The baseline: see [BASELINE.md](BASELINE.md), tag [pre-hackathon](https://github.com/Irina386983/nia-telegram-bot/releases/tag/pre-hackathon). Only the start of development: early work on a Telegram bot in Make.com.
 
-- The AI duel: the player's move is compared with a real AI agent on NEAR AI Cloud, with a reference answer for each situation and the Queen's comment.
-- 4 new situations (9 to 12), 12 in total, each with its own Notebook page, outcomes and points.
-- Points that depend on the situation, so asking is not always the best move.
-- Error handling for the AI call.
-- Updated Compare Results texts.
+- 8 situations with three moves (agree with the agent's plan, ask it to clarify, allow a risky shortcut), each with its own outcome text
+- The Emerald Queen: verdicts, sharp lines and short video reactions
+- Points per move, ranks from Wanderer to Crown Guardian, saved in a Make data store
+- The Emerald Leaderboard with medals and a reaction for the top three
+- The Queen's Notebook: a page with the rule behind every situation and a caption for each situation and move
+- A Quick Demo button and inline buttons under the messages for all choices
+- The greeting, the Compare Results screen and the bot description
+
+### During the hackathon (from 1 Nov 2026)
+
+- The AI duel: a "What would the AI agent do?" button; the same situation goes to a real AI agent and the Queen judges both moves against her reference answer
+- Connection of the NEAR AI Cloud API to the bot (an HTTP module in Make.com, chat completions) with the agent model Qwen/Qwen3.6-35B-A3B-FP8, temperature 0, no hints
+- Error handling for the AI call: the player sees "AI agent is resting" and the owner gets an alert
+- 4 new situations (9 to 12), 12 in total, each with its own Notebook page and outcomes
+- Points that depend on the situation, so asking is not always the best move
+- New Queen lines for the duel and updated Compare Results texts
+- The "Premium & Teams (coming soon)" button and menu with three choices (Harder levels, Themed packs, For teams): a placeholder, nothing is paid and no choices are saved
+- The business model plan
+- The public repository with the license, README ("do X, see Y" steps, screenshots), BASELINE.md and the exported scenario
+- The demo video
 
 ## Origin
 
