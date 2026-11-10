@@ -2,7 +2,7 @@
 
 **Nia is a gym for your "yes" button.** It teaches you not to say yes blindly to a confident AI agent before it spends your money.
 
-A fairy-tale Telegram game for beginners of any age. AI agents are getting access to our files, money and tools. An agent can sound sure of itself and still be tricked, rushed or simply wrong, so the last word has to stay with a human. In Nia you practise exactly that: the agent suggests, YOU decide.
+An educational Telegram game in a fairy-tale style, for beginner AI users of any age. AI agents now get access to our files and money. Usually they cope, but sometimes an agent makes a wrong decision, and does it with full confidence. When money or important data are involved, such a mistake can be costly. In Nia you practise catching it in time: the agent suggests, YOU decide.
 
 Built at NEAR HACKATHON (1-14 Nov 2026). Solo project.
 
@@ -88,7 +88,7 @@ Nia is free to play, and nothing is paid yet. This is the plan:
 - **Premium levels:** harder, branching situations and themed packs (money, DeFi agents, work tools) for experienced AI users. Payment in Telegram Stars, payment in NEAR later.
 - **Teams:** a training mode for companies that want their people to practise supervising AI agents, with group results.
 - **Why it can work:** agents are starting to handle money, and supervising them is a skill people and companies will pay to practise.
-- **Use of NEAR:** every duel is a paid NEAR AI Cloud request; premium levels and a team training mode would multiply it.
+- **Use of NEAR:** premium levels and a team training mode would raise the number of requests to NEAR AI Cloud, and so the use of NEAR AI products.
 
 ## Notes
 
