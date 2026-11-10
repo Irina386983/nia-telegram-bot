@@ -8,6 +8,8 @@ Built at NEAR HACKATHON (1-14 Nov 2026). Solo project.
 
 Bot: https://t.me/IronClawPlaygroundBot
 
+Demo post on X: https://x.com/irina717090/status/2120204742353703140
+
 ## Try it (do X, see Y)
 
 1. Open the bot and tap START. You see a greeting from Nia, Queen of the Emerald Kingdom, and four buttons.
